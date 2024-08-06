@@ -1,0 +1,16 @@
+[12-May-2024 15:54:27 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/gesta500/tlp.hone.net.br/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/gesta500/tlp.hone.net.br/config/database.php on line 18
+[13-May-2024 23:32:46 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/gesta500/tlp.hone.net.br/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/gesta500/tlp.hone.net.br/config/database.php on line 18
+[25-May-2024 15:41:17 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/gesta500/nf.hone.net.br/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/gesta500/nf.hone.net.br/config/database.php on line 18
+[26-Jul-2024 12:32:12 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/gesta500/nf.hone.net.br/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/gesta500/nf.hone.net.br/config/database.php on line 18

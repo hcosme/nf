@@ -1,0 +1,30 @@
+[18-Feb-2023 18:50:19 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home4/hcontr25/tlp.gestaoderecursos.com/app/Http/Controllers/InstalacaoController.php on line 3
+[18-Feb-2023 18:50:36 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home4/hcontr25/tlp.gestaoderecursos.com/app/Http/Controllers/InstalacaoController.php on line 3
+[18-Feb-2023 18:51:34 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home4/hcontr25/tlp.gestaoderecursos.com/app/Http/Controllers/InstalacaoController.php on line 3
+[18-Feb-2023 18:52:57 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home4/hcontr25/tlp.gestaoderecursos.com/app/Http/Controllers/InstalacaoController.php on line 3
+[25-Jul-2023 18:28:18 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\HeadcountController::novo_lancamento_presenca() in /home4/hcontr25/tlp.gestaoderecursos.com/app/Http/Controllers/HeadcountController.php on line 340
+[25-Sep-2023 11:17:13 America/Sao_Paulo] PHP Fatal error:  Uncaught ErrorException: include(/home4/gesta500/tlp.hone.net.br/vendor/composer/../../app/Exceptions/Handler.php): failed to open stream: No such file or directory in /home4/gesta500/tlp.hone.net.br/vendor/composer/ClassLoader.php:571
+Stack trace:
+#0 /home4/gesta500/tlp.hone.net.br/vendor/composer/ClassLoader.php(571): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/home4/...', '/home4/gesta500...', 571, Array)
+#1 /home4/gesta500/tlp.hone.net.br/vendor/composer/ClassLoader.php(571): include()
+#2 /home4/gesta500/tlp.hone.net.br/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home4/gesta500...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Exceptions\\...')
+#4 [internal function]: spl_autoload_call('App\\Exceptions\\...')
+#5 /home4/gesta500/tlp.hone.net.br/vendor/laravel/framework/src/Illuminate/Container/Container.php(877): ReflectionClass->__construct('App\\Exceptions\\...')
+#6 /home4/gesta500/tlp.hone.net.br/vendor/laravel/framework/ in /home4/gesta500/tlp.hone.net.br/vendor/composer/ClassLoader.php on line 571
+[25-Sep-2023 11:17:20 America/Sao_Paulo] PHP Fatal error:  Uncaught ErrorException: include(/home4/gesta500/tlp.hone.net.br/vendor/composer/../../app/Exceptions/Handler.php): failed to open stream: No such file or directory in /home4/gesta500/tlp.hone.net.br/vendor/composer/ClassLoader.php:571
+Stack trace:
+#0 /home4/gesta500/tlp.hone.net.br/vendor/composer/ClassLoader.php(571): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/home4/...', '/home4/gesta500...', 571, Array)
+#1 /home4/gesta500/tlp.hone.net.br/vendor/composer/ClassLoader.php(571): include()
+#2 /home4/gesta500/tlp.hone.net.br/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home4/gesta500...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Exceptions\\...')
+#4 [internal function]: spl_autoload_call('App\\Exceptions\\...')
+#5 /home4/gesta500/tlp.hone.net.br/vendor/laravel/framework/src/Illuminate/Container/Container.php(877): ReflectionClass->__construct('App\\Exceptions\\...')
+#6 /home4/gesta500/tlp.hone.net.br/vendor/laravel/framework/ in /home4/gesta500/tlp.hone.net.br/vendor/composer/ClassLoader.php on line 571
+[10-Jan-2024 16:05:56 UTC] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home4/gesta500/tlp.hone.net.br/vendor/nesbot/carbon/src/Carbon/Traits/Date.php on line 1253
+[10-Jan-2024 16:05:56 UTC] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home4/gesta500/tlp.hone.net.br/vendor/nesbot/carbon/src/Carbon/Traits/Date.php on line 1262
+[10-Jan-2024 16:05:56 UTC] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home4/gesta500/tlp.hone.net.br/vendor/nesbot/carbon/src/Carbon/Traits/Date.php on line 2482
+[10-Jan-2024 16:05:56 UTC] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home4/gesta500/tlp.hone.net.br/vendor/nesbot/carbon/src/Carbon/Traits/Date.php on line 2607
+[10-Jan-2024 16:05:56 UTC] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home4/gesta500/tlp.hone.net.br/vendor/nesbot/carbon/src/Carbon/Traits/Date.php on line 2619
+[10-Jan-2024 16:05:56 UTC] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home4/gesta500/tlp.hone.net.br/vendor/facade/ignition/src/SolutionProviders/MergeConflictSolutionProvider.php on line 52
+[24-May-2024 18:39:39 America/Fortaleza] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.1.28. in /home4/gesta500/nf.hone.net.br/vendor/composer/platform_check.php on line 24
